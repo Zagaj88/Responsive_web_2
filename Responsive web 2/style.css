@@ -8,7 +8,7 @@ body {
 	font-family: 'Raleway', sans-serif;
 }
 
-/* nawigacja */
+/* NAV */
 
 .nav {
 	height: 50px;
@@ -37,7 +37,7 @@ body {
 	color: royalblue;
 }
 
-/* header */
+/* HEADER */
 
 .header-img {
 	position: relative;
@@ -69,7 +69,7 @@ body {
 	background-color: rgba(8, 20, 112, 0.4);
 }
 
-/* main */
+/* MAIN */
 
 main {
 	width: 1200px;
@@ -86,7 +86,7 @@ main h2 {
 	position: relative;
 	height: 300px;
 	margin: 40px 0;
-	background-attachment: fixed; /* zdjecie przyklejone do strony, podczas scrollowania daje fajny efekt */
+	background-attachment: fixed;
 	background-position: center;
 	border-top-left-radius: 50px;
 	border-bottom-right-radius: 50px;
@@ -126,14 +126,14 @@ main h2 {
 	background-color: rgba(0, 0, 0, 0.8);
 }
 
-/* services */
+/* SERVICES */
 
 .services-list {
 	margin: 0 auto;
 	width: 200px;
 }
 
-/* pricelist */
+/* PRICELIST */
 
 .prices-table {
 	margin: 0 auto;
@@ -143,7 +143,7 @@ main h2 {
 	padding: 10px 30px;
 }
 
-/* contact */
+/* CONTACT */
 
 .contact-info {
 	text-align: center;
@@ -154,7 +154,7 @@ main h2 {
 	margin-right: 10px;
 }
 
-/* footer */
+/* FOOTER */
 
 footer {
 	height: 80px;
